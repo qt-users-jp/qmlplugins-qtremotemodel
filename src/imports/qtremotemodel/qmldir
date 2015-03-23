@@ -1,0 +1,3 @@
+module QtRemoteModel
+plugin declarative_qtremotemodel
+typeinfo plugins.qmltypes
